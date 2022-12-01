@@ -37,9 +37,9 @@ This App is based on <a href="https://github.com/tesseract-ocr/tesseract/blob/ma
 
 ## <font color="#2467d6"><b>Code Contributors </b></font>
 
-* Shubham Tyagi
-* New UI is designed by [Hannes Gehrold](https://github.com/h4n23s)
-* [urlordjames](https://github.com/urlordjames)
+* Timom
+* Zenia
+* Promi
 
 
 ## <font color="#2467d6"><b>[Icon ](https://github.com/SubhamTyagi/android-ocr/issues/15) </b></font>
